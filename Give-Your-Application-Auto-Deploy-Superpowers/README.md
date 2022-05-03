@@ -1,16 +1,22 @@
 
+
+
 # Give Your Application Auto-Deploy Superpowers Project
-In this project, you’ll demonstrate your Cloud DevOps engineer skills as a new employee at UdaPeople, an innovative new Human Resources company.
+In this project, you’ll demonstrate your Cloud DevOps engineer skills as a new employee at UdaPeople, an innovative new Human Resources company.  
+
+![Give Your Application Auto-Deploy Superpowers](../udapeople.png)   
+
 ## Project Objectives
-![Give Your Application Auto-Deploy Superpowers]()  
+
 In this project, you will prove your mastery of the following learning objectives (or sections):
 
 1- Explain the fundamentals and benefits of CI/CD to achieve, build, and deploy automation for cloud-based software products.  
 2- Utilize Deployment Strategies to design and build CI/CD pipelines that support Continuous Delivery processes.  
 3- Utilize a configuration management tool to accomplish deployment to cloud-based servers.  
 4- Surface critical server errors for diagnosis using centralized structured logging.  
+
 ## Selling CI/CD  
-![A picture of the Udapeople logo - Udapeople App]()
+
 
 **Section 1  
 Explain the Fundamentals and Benefits of CI/CD to Achieve, Build, and Deploy Automation for Cloud-Based Software Products**  
